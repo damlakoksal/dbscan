@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBScanTest", "DBScanTest\DBScanTest.csproj", "{4E33B1B3-1C2B-4012-BFA3-D23A9C37E7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E33B1B3-1C2B-4012-BFA3-D23A9C37E7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E33B1B3-1C2B-4012-BFA3-D23A9C37E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E33B1B3-1C2B-4012-BFA3-D23A9C37E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E33B1B3-1C2B-4012-BFA3-D23A9C37E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B49D5DA-56BC-48DC-8CD1-9950D522EA5C}
+	EndGlobalSection
+EndGlobal
